@@ -24,29 +24,9 @@ Installation is easily done through the terminal.
 #### Using git
 
 ```
-$ git clone https://github.com/MrVallentin/mount.py
+$ git clone https://github.com/nazunamoe/mount.py
 $ sudo python mount.py/setup.py install
 $ rm -rf mount.py
-```
-
-#### Using curl & unzip
-
-```
-$ curl -o mount.py.zip -L https://github.com/MrVallentin/mount.py/archive/master.zip
-$ unzip mount.py.zip
-$ sudo python mount.py-master/setup.py install
-$ rm -rf mount.py-master
-$ rm -rf mount.py.zip
-```
-
-#### Using wget & unzip
-
-```
-$ wget https://github.com/MrVallentin/mount.py/archive/master.zip -O mount.py.zip
-$ unzip mount.py.zip
-$ sudo python mount.py-master/setup.py install
-$ rm -rf mount.py-master
-$ rm -rf mount.py.zip
 ```
 
 ##### Uninstall
